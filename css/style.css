@@ -20,7 +20,7 @@
     background-color: rgba(255, 105, 0, 255);
     display: flex;
     justify-content: space-between;
-    width: 50%;
+    width: 68%;
 }
 
 
@@ -148,5 +148,41 @@ img{
     width: 90px;
     background-color: green;
     color: white;
+
+}
+
+.container-footer{
+    margin-top: 100px;
+    height: 100px;
+    background-color: rgba(26,26,26,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-bar{
+    height: 70px;
+    padding: 20px;
+    background-color: rgba(26,26,26,255) ;
+    display: flex;
+    justify-content: space-between;
+    width: 68%;
+
+}
+
+.text-footer,h3,span{
+    color: white;
+    padding: 5px 10px;
+}
+
+.text-footer-right{
+    color: white;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+
+.text-footer-right,i{
+    padding: 5px;
 
 }
